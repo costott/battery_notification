@@ -1,0 +1,1 @@
+C:\Users\conno\OneDrive\Documents\rust\ scripts\battery_notification\target\release\battery_notification.exe: C:\Users\conno\OneDrive\Documents\rust\ scripts\battery_notification\src\lib.rs C:\Users\conno\OneDrive\Documents\rust\ scripts\battery_notification\src\main.rs

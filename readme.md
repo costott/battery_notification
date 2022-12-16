@@ -5,4 +5,4 @@ By [costott](https://github.com/costott)
 
 ## Notifies the user when:
 - The battery is `under 40%` and not on charge
-- The battery is `over 80&` and on charge
+- The battery is `over 80%` and on charge

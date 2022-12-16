@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\conno\OneDrive\Documents\rust scripts\battery_notification\target\release\build\typenum-c9064723ffc716e6\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\conno\OneDrive\Documents\rust scripts\battery_notification\target\release\build\typenum-c9064723ffc716e6\out\op.rs
